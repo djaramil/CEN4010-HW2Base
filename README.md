@@ -1,4 +1,4 @@
-*Put yoru name here*
+*Put your name here*
 *Z # here*
 
 Software required:
